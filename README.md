@@ -1,4 +1,4 @@
-# ArgumentQualityAssessment
+# Argument Quality Assessment
 
 This repository contains Python code for automatically assessing the quality of argumentative documents, specifically focusing on student essays on the confirmation bias dimension. The code implements a feature-based supervised approach using text features and machine learning techniques.
 
